@@ -8,7 +8,7 @@ Welcome to our project management app – your all-in-one solution for efficient
 
 # Features
 
-# Task Management :
+# Product Management :
 
 Create, edit, and delete tasks with ease.
 
